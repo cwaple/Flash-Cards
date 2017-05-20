@@ -1,0 +1,27 @@
+h2 {
+	font-family: Arial; 
+}
+h3 {
+	font-family: Arial; 
+}
+
+form {
+	display: inline-block;
+}
+#createButton {
+	display: inline-block;
+	height: 25px;
+	width: 100px;
+	font-family: Arial;
+	background-color: black;
+	color: white; 
+	margin: 5px;
+}
+
+.flashCard {
+	font-family: Arial;
+	height: 200px;
+	width: 400px;
+	background-color: red;
+	color: white; 
+}
